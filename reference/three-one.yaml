@@ -150,7 +150,7 @@ components:
     User:
       title: User
       type: object
-      description: ''
+      description: this is a test
       x-examples:
         Alice Smith:
           id: 142
